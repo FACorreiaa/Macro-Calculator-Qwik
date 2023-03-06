@@ -63,4 +63,7 @@ The production build will generate client and server modules by running both cli
 ```shell
 pnpm build # or `yarn build`
 ```
+
 # Macro-Calculator-Qwik
+
+Web version of the Macro Calculator CLI built with [Go](https://github.com/FACorreiaa/Macro-Calculator). Insert your data and get to know your calorie distribution depending on your objectives.
